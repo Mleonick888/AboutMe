@@ -1,0 +1,31 @@
+* {
+    background-color: #40e0d0;
+}
+
+body {
+   margin-left: 600px; 
+}
+
+.Paragraph {
+    margin-left: -50px;
+    font-size: larger;
+    padding: 2px;
+    border: 3px solid black;
+    width: 450px;
+}
+
+#name {
+    color: #008000;
+}
+
+#major {
+    color:#8a2be2;
+}
+
+#year {
+    color:#ffef4e;
+}
+
+#content {
+    color:#dc143c;
+}
